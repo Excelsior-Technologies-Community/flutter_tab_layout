@@ -2,7 +2,7 @@
 
 A simple Flutter TabLayout widget with Tab Click + Swipe support.
 
-Ye package clean architecture follow karta hai aur future me easily reusable library ban sakta hai.
+This package follows clean architecture principles and can become a easily reusable library in the future.
 
 ---
 ## ✨ Features
@@ -77,12 +77,7 @@ class MyApp extends StatelessWidget {
   }
 }
 ```
----
-## 🧠 How It Works
-* TabController → tab state manage karta hai
-* TabBar → tab click handle karta hai
-* TabBarView → swipe gesture handle karta hai
-* Same controller use hone ki wajah se click + swipe sync rehte hain
+
 ---
 
 ## 🔮 Future Improvements
